@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorRunner", "ElevatorRunner\ElevatorRunner.csproj", "{CFF0433A-3FAE-4D0E-8D9F-78AEC40640F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{32026B4F-A247-453B-B915-8A37DBE14BEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFF0433A-3FAE-4D0E-8D9F-78AEC40640F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF0433A-3FAE-4D0E-8D9F-78AEC40640F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF0433A-3FAE-4D0E-8D9F-78AEC40640F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF0433A-3FAE-4D0E-8D9F-78AEC40640F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32026B4F-A247-453B-B915-8A37DBE14BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32026B4F-A247-453B-B915-8A37DBE14BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32026B4F-A247-453B-B915-8A37DBE14BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32026B4F-A247-453B-B915-8A37DBE14BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD1D6D78-78B2-4210-AEAB-07DEEF546561}
+	EndGlobalSection
+EndGlobal
