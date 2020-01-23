@@ -3,6 +3,9 @@ To write an implementation for an elevator to service requests
 
 * Create implementations for [`IElevatorStatus`](Interfaces/IElevatorStatus.cs) and [`IElevatorControls`](Interfaces/IElevatorControls.cs)
 * Bind the implimentatons using Ninject (https://github.com/ninject/Ninject/wiki/Dependency-Injection-With-Ninject)
+
+The elevator should now run using the existing code
+
 * When running the console application the elevator should move between floors servicing requests
 * If any modifications are needed to the runner then feel free to make them. This isn't a perfect system
 * Add people to the list to test different scenarios
