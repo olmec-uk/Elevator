@@ -1,5 +1,5 @@
 # Goal
-The goal of this is excercise is to give us some code to talk about in a face to face interview. We're not looking for a specific approach or functionality. A more complete system doesn't mean it's better designed.
+The goal of this is excercise is to give us some code to talk about in a face to face interview. We're not looking for a specific approach or functionality. A more complete system doesn't mean it's better designed. There is no pass or fail criteria.
 
 # Task
 To write an implementation for an elevator to service requests
