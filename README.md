@@ -10,8 +10,8 @@ To write an implementation for an elevator to service requests
 The elevator should now run using the existing code
 
 * When running the console application the elevator should move between floors servicing requests
-* If any modifications are needed to the runner then feel free to make them. This isn't a perfect system
 * Add people to the [list](ElevatorRunner/Program.cs#L23) to test different scenarios
+* Modifiy the runner if required, but try to leave the existing code intact if possible.  
 
 The elevator is considered complete when it can move people from their initial floor to their desired floor
 
